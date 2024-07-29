@@ -1,0 +1,2 @@
+เมื่อ Spring Security เริ่มต้นทำงาน คลาส UserDetail จะถูกเรียกใช้งานเป็นคลาสแรก โดย UserDetail จะเป็น interface ที่จัดเก็บ method
+เอาไว้จัดการกับผู้ใช้
